@@ -33,5 +33,5 @@ chaiminwoo0223@gmail.com
 <br>
 <br>
 
-![Minwoo's github stats](https://github-readme-stats.vercel.app/api?username=Minwoo Choi&show_icons=true)
+![Minwoo's github stats](https://github-readme-stats.vercel.app/api?username=MinwooChoi&show_icons=true)
 </div>
