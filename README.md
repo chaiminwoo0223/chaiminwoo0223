@@ -14,7 +14,6 @@ chaiminwoo0223@gmail.com
     <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
 
-<br>
 <p display="inline-block">
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
