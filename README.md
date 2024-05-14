@@ -33,5 +33,11 @@ chaiminwoo0223@gmail.com
 <br>
 
 ![Minwoo's github stats](https://github-readme-stats.vercel.app/api?username=chaiminwoo0223&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaiminwoo0223&layout=compact)
+
+<br>
+![Minwoo's github stats](https://github-readme-stats.vercel.app/api?username=chaiminwoo0223&show_icons=true&height=195)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaiminwoo0223&layout=compact&height=195)
+
+
 </div>
