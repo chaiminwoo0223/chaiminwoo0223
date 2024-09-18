@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minwoo%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20I'm%20Backend%20Developer&descAlignY=55&descAlign=65.5)
 
-<br>
-
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
