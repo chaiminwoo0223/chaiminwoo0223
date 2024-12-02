@@ -5,7 +5,6 @@
 <p align="center">
     <Strong>🔍Do you know me?🔍</Strong><br>
     <a href="https://velog.io/@chaiminwoo0223" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-    <a href="chaiminwoo0223@gmail.com"><img src="https://img.shields.io/badge/Gmail-DD1100?style=for-the-badge&logo=Gmail&logoColor=white/></a>
 </p>
 
 <p align="center">
