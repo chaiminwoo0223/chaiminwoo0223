@@ -1,4 +1,7 @@
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minwoo%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20I'm%20Backend%20Developer&descAlignY=55&descAlign=65.5)
+    
 <p align="center">
     <Strong>🔍Contact🔍</Strong><br>
 </p>
@@ -25,11 +28,4 @@
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
 </p>
-
-<p align="center">
-    <a href="https://solved.ac/chaiminwoo0223">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chaiminwoo0223" alt="Solved.ac Profile">
-    </a>
-</p>
-
 </div>
