@@ -30,7 +30,4 @@
 </p>
 
 <br>
-<br>
-
-![Minwoo's github stats](https://github-readme-stats.vercel.app/api?username=chaiminwoo0223&show_icons=true)
 </div>
