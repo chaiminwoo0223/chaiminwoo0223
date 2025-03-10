@@ -28,6 +28,7 @@
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
 </p>
-
 <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mj030313)](https://solved.ac/chaiminwoo0223)
+
 </div>
