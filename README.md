@@ -13,10 +13,6 @@
     <a href="mailto:chaiminwoo0223@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-DD1100?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9A%B0-%EC%B5%9C-5b5b022a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-
 </p>
 
 <p align="center">
