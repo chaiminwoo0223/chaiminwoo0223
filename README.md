@@ -29,6 +29,5 @@
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
 </p>
 <br>
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chaiminwoo0223)(https://solved.ac/chaiminwoo0223)
-![Solved.ac Profile](https://img.shields.io/badge/Solved.ac-chaiminwoo0223-2F8D46?logo=baekjoon&logoColor=white)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaiminwoo0223)](https://solved.ac/chaiminwoo0223)
 </div>
