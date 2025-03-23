@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hello%20I'm%20Backend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=65.5)
 
 ## 📚 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaiminwoo0223)](https://velog.io/@chaiminwoo0223)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaiminwoo0223&tag=캐시)](https://velog.io/@chaiminwoo0223)
 
 ## 🛠️ Stacks
  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
