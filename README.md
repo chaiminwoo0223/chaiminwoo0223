@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Time%20is%20Money&fontSize=80&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=65.5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Time%20is%20Money&fontSize=80&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=65.5)
 
 ## 📚 Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaiminwoo0223&tag=캐시)](https://velog.io/@chaiminwoo0223)
